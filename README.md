@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChibiLovesLearning. My main account is @keepbrewing.
+- 👋 Hi, I’m @ChibiLovesLearning aka Pratibha Biswas. My main account is @keepbrewing.
 - 👀 I’m interested in learning and exploring.
 - 🌱 I’m currently learning C#.
 
